@@ -1,8 +1,8 @@
 team: Tigers
 
-manager: Thanos
+manager: Brenda
 
-coach: Ronan
+coach: Ruth
 
 members:
 - Linda
@@ -11,11 +11,5 @@ members:
 - George
 - Tyler
 - Kim
-- Gamora
-- Nebula
 
 ---fetch---
-new Branch
-
-
-...
